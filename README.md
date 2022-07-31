@@ -1,0 +1,4 @@
+- 👋 Ola, eu sou @Vinyzyn
+- Meu email de contato é v.santos26@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender novas linguagens de programação 
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scrath
